@@ -12,7 +12,7 @@ The repo has two branches:
 
 ## How to use this repo
 
-1. **Fork this repository** to your own GitHub account.
+1. **Fork this repository** to your own GitHub account. When forking, remember to uncheck the **"Copy the main branch only"** checkbox so that you get all branches (including `dev`).
 2. In your fork, open a **pull request from `dev` into `main`**.
    This PR is what you'll actually review — treat it exactly like a
    real PR a teammate opened and is waiting on you to look at.
